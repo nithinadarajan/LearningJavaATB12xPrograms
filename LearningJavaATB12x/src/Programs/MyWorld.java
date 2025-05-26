@@ -3,7 +3,9 @@ package Programs;
 public class MyWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Subramanian");
+		System.out.println("Nithi devi");
+		System.out.println("Vainavi");
 
 	}
 
